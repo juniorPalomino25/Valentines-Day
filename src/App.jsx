@@ -140,7 +140,7 @@ function App() {
           ) : (
             <div className="final-message">
               <p>💖 ¡Gracias por ser mi San Valentín! 💖</p>
-              <p>💖 Te amo mucho Andrea 💖</p>
+              <p>💖Te amo mucho Andrea💖</p>
               <img
                 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g1NWluNjM0aHoxNDFubjlmZjBhMjl3emRuZmo3MHI5bXFwbXU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO6qJiXajN0TyDu/giphy.gif"
                 alt="San Valentín"
